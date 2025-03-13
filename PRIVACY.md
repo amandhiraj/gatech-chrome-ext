@@ -35,4 +35,4 @@ We may update this Privacy Policy from time to time. Any changes will be posted 
 ## Contact Us
 
 If you have any questions or concerns about this Privacy Policy or our practices, please contact us at:  
-**Email:** adhiraj3@agetech.edu
+**Email:** adhiraj3@getech.edu
