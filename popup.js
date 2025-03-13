@@ -18,7 +18,6 @@ document.addEventListener("DOMContentLoaded", () => {
       }
       try {
         const urlObj = new URL(currentURL);
-        // Check that we're on the correct domain and the path is in the format /courses/{courseId}/grades
         const valid =
           urlObj.hostname.toLowerCase() === "gatech.instructure.com" &&
           /^\/courses\/[^\/]+\/grades(\/|$)/i.test(urlObj.pathname);
@@ -40,7 +39,6 @@ document.addEventListener("DOMContentLoaded", () => {
               <p>Grades plugin is active on this page!</p>
             </div>
           `;
-          // Insert your normal plugin UI here if needed.
         }
       } catch (e) {
         console.error("Invalid URL:", e);

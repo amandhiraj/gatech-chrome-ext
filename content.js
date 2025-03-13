@@ -162,7 +162,7 @@
     createdByRow.appendChild(createdByText);
 
     const ghLink = document.createElement("a");
-    ghLink.href = "https://github.com/amandhiraj";
+    ghLink.href = "https://github.com/amandhiraj/gatech-chrome-ext";
     ghLink.target = "_blank";
     ghLink.title = "GitHub Repository";
     ghLink.innerHTML = `
