@@ -1,12 +1,12 @@
 {
-    "name": "GT Canvas Weighted Grade Calculator",
-    "version": "1.0",
+    "name": "Canvas Weighted Grade Calculator",
+    "version": "1.1",
     "description": "Calculates the weighted average grade on Canvas and displays detailed breakdown.",
     "manifest_version": 3,
     "content_scripts": [
         {
             "matches": [
-                "https://gatech.instructure.com/courses/*/grades*"
+                "https://*.instructure.com/courses/*/grades*"
             ],
             "js": [
                 "content.js"
