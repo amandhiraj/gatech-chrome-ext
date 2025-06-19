@@ -1,7 +1,7 @@
-# GT Canvas Weighted Grade Calculator
+# Canvas Weighted Grade Calculator
 
-A Chrome extension that calculates the weighted average grade on Canvas (for Georgia Tech courses) and displays a detailed breakdown of each grade group. It is designed to work on Canvas grade pages matching the pattern:  
-`https://gatech.instructure.com/courses/{courseId}/grades`
+A Chrome extension that calculates the weighted average grade on Canvas and displays a detailed breakdown of each grade group. It is designed to work on Canvas grade pages matching the pattern:  
+`https://*.instructure.com/courses/{courseId}/grades`
 
 ## Features
 
