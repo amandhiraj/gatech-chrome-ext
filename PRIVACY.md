@@ -1,10 +1,10 @@
-# Privacy Policy for GT Canvas Weighted Grade Calculator
+# Privacy Policy for Canvas Weighted Grade Calculator
 
-**Effective Date:** 2025-03-13
+**Effective Date:** 2025-06-18
 
 ## Overview
 
-GT Canvas Weighted Grade Calculator is committed to protecting your privacy. This extension processes your grade data directly from your Canvas Grades page and does **not** collect, store, or transmit any personal information. All processing is done locally in your browser.
+Canvas Weighted Grade Calculator is committed to protecting your privacy. This extension processes your grade data directly from your Canvas Grades page and does **not** collect, store, or transmit any personal information. All processing is done locally in your browser.
 
 ## Information We Collect
 
@@ -12,7 +12,7 @@ GT Canvas Weighted Grade Calculator is committed to protecting your privacy. Thi
   The extension does **not** collect any personal data, usage statistics, or browsing behavior.
 
 - **Page Data:**  
-  The extension operates on Canvas Grades pages (matching the URL pattern `https://gatech.instructure.com/courses/*/grades*`) to extract grade information. This data is processed locally and is never sent to external servers.
+  The extension operates on Canvas Grades pages (matching the URL pattern `https://*.instructure.com/courses/*/grades*`) to extract grade information. This data is processed locally and is never sent to external servers.
 
 ## How We Use Your Data
 
